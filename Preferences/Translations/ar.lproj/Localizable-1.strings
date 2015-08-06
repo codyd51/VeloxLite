@@ -1,0 +1,74 @@
+/*
+ Thanks for helping translate Velox II! Translate the items that are not in all caps, for example, you would change:
+ "HELLO_PHRASE" = "Hello";
+ to:
+ "HELLO_PHRASE" = "Hola";
+ You also don't need to translate the stuff after two slashes (//).
+ Try to follow the same scheme as me for capitalization.
+ Happy translating! Thanks again,
+ The Cortex Dev Team :)
+ If you have any questions, or a setting needs more clarification/context for you to translate it well, feel free to shoot me an email at milodarling98@gmail.com and I'll get back to you as soon as I can
+ Please fill out the information in the next comment block as well.
+ */
+
+/*
+ LANGUAGE: ARABIC
+ Please enter the following information so we can accredit and reward you:
+  * Name to show up in preference bundle: Zarius Dubash
+  * Social media account to show up in preference bundle: twitter @zariusDub
+  * Cydia ID so we can gift you the tweak: 466120953
+ How we can contact you if needed: twitter @zariusDub OR email zarius@icloud.com
+*/
+
+
+"BY_PHILLIP_TENNEN" = "بواسطة PHILLIP TENNEN";
+"ENABLED" = "تمكين";
+"DARK_MODE" = "وضع الظلام";
+"USE_FASTER_ANIMATIONS" = "استخدام أسرع متحركة";
+
+"ACTIVATION_METHOD" = "طريقة تفعيل";
+"SWIPE_UP" = "سحب ما يصل على أيقونة";
+"SWIPE_DOWN" = "سحب لأسفل على أيقونة";
+"DOUBLE_TAP" = "اضغط مرتين على أيقونة";
+"TRIPLE_TAP" = "الحنفية الثلاثي على أيقونة";
+"HOLD_ON_ICON" = "عقد على أيقونة";
+
+"PLUGIN_PREFERENCES" = "تفضيلات البرنامج المساعد";
+"PLUGIN_PREFERENCES_FOOTER" = "التفضيلات لالإضافات Velox الخاص بك";
+"CHOOSE_VIEW" = "Velox عرض للتطبيقات";
+"CHOOSE_VIEW_FOOTER" = "اختيار أي Velox العرض الذي ترغب لكل التطبيق";
+"MORE" = "أكثر";
+
+"NOTIFICATION_VIEW" = "الإخطار مشاهدة"; //this is the view that shows your list of notifications instead of the custom Velox view, in case that helps you translate it better :)
+
+"CREDITS" = "ائتمانات";
+
+"PHILLIP_TITLE" = "المطور الرئيسي";
+"PHILLIP_SUBTITLE" = "يبدو وكأنه MORGAN FREEMAN";
+
+"STEVE_TITLE" = "المطور الرئيسي";
+"STEVE SUBTITLE" = "STEVE هو مصمم من VELOX 1 & 2";
+
+"UROBORO_TITLE" = "شارك في مطور";
+"UROBORO_SUBTITLE" = "وهو بالتأكيد الروبوت";
+
+"CORTEX_TITLE" = "فريق";
+"CORTEX_SUBTITLE" = "الفريق الذي خلق VELOX";
+
+"MILO_TITLE" = "مساعدة المطور";
+"MILO_SUBTITLE" = "صممت وبنيت حزمة تفضيل";
+
+"ETHAN_TITLE" = "مساعدة المطور";
+"ETHAN_SUBTITLE" = "ساعد مع VELOX";
+
+"CYRIL_TITLE" = "مصمم CORTEX والتعاون مصمم من VELOX";
+"CYRIL_SUBTITLE" = "ساعد في تصميم VELOX";
+
+"CHECK_IT_OUT" = "تحقق من ذلك!";
+"STRATOS_FOOTER" = "STRATOS هو الآخر أحدث قرص CORTEX للتحقق من ذلك في سيديا!";
+
+/*
+ Please leave the "%@" and "\n" keys alone; those are part of the code.
+ For example, you would translate "%@\nThis\nWord" into "%@\nEsta\nPalabra"
+*/
+"ERROR_VIEW" = "%@\nوقد تكوين المطور من هذا التمديد بشكل غير صحيح.\n الرجاء التأكد من الفئة المحددة في Info.plist التمديد (على veloxClass مفتاح) تم تحميلها في المقفز.";

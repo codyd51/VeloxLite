@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<!--
+		<dict>
+			<key>footerCellClass</key>
+			<string>VeloxCustomCell</string>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Upgrade to Velox 2</string>
+			<key>action</key>
+			<string>upgrade</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Respring for this change to take effect</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.phillipt.velox</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+			<key>PostNotification</key>
+			<string>com.phillipt.velox/preferencesChanged</string>
+			<key>cellClass</key>
+			<string>VeloxTintedSwitchCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.phillipt.velox</string>
+			<key>PostNotification</key>
+			<string>com.phillipt.velox/preferencesChanged</string>
+			<key>key</key>
+			<string>darkMode</string>
+			<key>label</key>
+			<string>Dark Mode</string>
+			<key>cellClass</key>
+			<string>VeloxTintedSwitchCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>defaults</key>
+			<string>com.phillipt.velox</string>
+			<key>default</key>
+			<string>0</string>
+			<key>PostNotification</key>
+			<string>com.phillipt.velox/preferencesChanged</string>
+			<key>detail</key>
+			<string>VeloxListItemsController</string>
+			<key>key</key>
+			<string>activationMethod</string>
+			<key>label</key>
+			<string>Activation Method</string>
+			<key>validTitles</key>
+			<array>
+				<string>Swipe Up on icon</string>
+				<string>Swipe Down on icon</string>
+				<string>Double Tap on icon</string>
+				<string>Triple Tap on icon</string>
+				<string>Hold on icon</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<string>0</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+				<string>4</string>
+			</array>
+			<key>cellClass</key>
+			<string>VeloxTintedCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>More</string>
+			<key>detail</key>
+			<string>VeloxCreditsListController</string>
+			<key>cellClass</key>
+			<string>VeloxTintedCell</string>
+		</dict>
+		!-->
+	</array>
+	<key>title</key>
+	<string>Velox Lite</string>
+</dict>
+</plist>

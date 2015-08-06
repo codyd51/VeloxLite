@@ -1,0 +1,74 @@
+/*
+ Thanks for helping translate Velox II! Translate the items that are not in all caps, for example, you would change:
+ "HELLO_PHRASE" = "Hello";
+ to:
+ "HELLO_PHRASE" = "Hola";
+ You also don't need to translate the stuff after two slashes (//).
+ Try to follow the same scheme as me for capitalization.
+ Happy translating! Thanks again,
+ The Cortex Dev Team :)
+ If you have any questions, or a setting needs more clarification/context for you to translate it well, feel free to shoot me an email at milodarling98@gmail.com and I'll get back to you as soon as I can
+ Please fill out the information in the next comment block as well.
+ */
+
+/*
+ LANGUAGE:
+ Please enter the following information so we can accredit and reward you:
+  * Name to show up in preference bundle:
+  * Social media account to show up in preference bundle:
+  * Cydia ID so we can gift you the tweak:
+ How we can contact you if needed:
+*/
+
+
+"BY_PHILLIP_TENNEN" = "Par Phillip Tennen";
+"ENABLED" = "Activé";
+"DARK_MODE" = "Mode sombre";
+"USE_FASTER_ANIMATIONS" = "Utiliser des animations rapides";
+
+"ACTIVATION_METHOD" = "Méthode d'activation";
+"SWIPE_UP" = "Glisser vers le haut";
+"SWIPE_DOWN" = "Glisser vers le bas";
+"DOUBLE_TAP" = "Appuyer deux fois sur l'icône";
+"TRIPLE_TAP" = "Appuyer trois fois sur l'icône";
+"HOLD_ON_ICON" = "Maintenir l'icône";
+
+"PLUGIN_PREFERENCES" = "Réglage des plug-ins";
+"PLUGIN_PREFERENCES_FOOTER" = "Réglages pour vos plug-ins Velox";
+"CHOOSE_VIEW" = "Aperçu Velox pour l'app";
+"CHOOSE_VIEW_FOOTER" = "Choisissez quelle aperçu vous voulez pour chaque app";
+"MORE" = "Plus";
+
+"NOTIFICATION_VIEW" = "Aperçu des notifications"; //this is the view that shows your list of notifications instead of the custom Velox view, in case that helps you translate it better :)
+
+"CREDITS" = "Créateurs";
+
+"PHILLIP_TITLE" = "Développeur principal";
+"PHILLIP_SUBTITLE" = "Un goût de Morgan Freeman";
+
+"STEVE_TITLE" = "Designer principal";
+"STEVE SUBTITLE" = "Steve est le designer de Velox 1 & 2";
+
+"UROBORO_TITLE" = "Co-développeur";
+"UROBORO_SUBTITLE" = "C'est quasiment un robot";
+
+"CORTEX_TITLE" = "L'équipe";
+"CORTEX_SUBTITLE" = "L'équipe créatrice de Velox";
+
+"MILO_TITLE" = "Assistant développeur";
+"MILO_SUBTITLE" = "À créé et imaginé les réglages";
+
+"ETHAN_TITLE" = "Assistant développeur";
+"ETHAN_SUBTITLE" = "À aidé à la création de Velox";
+
+"CYRIL_TITLE" = "Cortex Designer et Co-designer de Velox";
+"CYRIL_SUBTITLE" = "À aidé au design de Velox";
+
+"CHECK_IT_OUT" = "Jetez un coup d'oeil !";
+"STRATOS_FOOTER" = "Stratos est l'autre nouveau tweak de l'équipe Cortex !";
+
+/*
+ Please leave the "%@" and "\n" keys alone; those are part of the code.
+ For example, you would translate "%@\nThis\nWord" into "%@\nEsta\nPalabra"
+*/
+"ERROR_VIEW" = "%@\nThe developer of this extension has configured it incorrectly.\n Please ensure the class specified in the extension's Info.plist (for key veloxClass) has been loaded into SpringBoard.";

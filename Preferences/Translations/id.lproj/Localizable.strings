@@ -1,0 +1,74 @@
+/*
+ Thanks for helping translate Velox II! Translate the items that are not in all caps, for example, you would change:
+ "HELLO_PHRASE" = "Hello";
+ to:
+ "HELLO_PHRASE" = "Hola";
+ You also don't need to translate the stuff after two slashes (//).
+ Try to follow the same scheme as me for capitalization.
+ Happy translating! Thanks again,
+ The Cortex Dev Team :)
+ If you have any questions, or a setting needs more clarification/context for you to translate it well, feel free to shoot me an email at milodarling98@gmail.com and I'll get back to you as soon as I can
+ Please fill out the information in the next comment block as well.
+ */
+
+/*
+ LANGUAGE:
+ Please enter the following information so we can accredit and reward you:
+ * Name to show up in preference bundle: Amirul Imran
+ * Social media account to show up in preference bundle: @amirulmran
+ * Cydia ID so we can gift you the tweak: 464382286
+ How we can contact you if needed: amirulmran@hotmail.com
+ */
+
+
+"BY_PHILLIP_TENNEN" = "Dari Phillip Tennen";
+"ENABLED" = "Pasang";
+"DARK_MODE" = "Mode Gelap";
+"USE_FASTER_ANIMATIONS" = "Guna Animasi Lebih Laju";
+
+"ACTIVATION_METHOD" = "Cara Aktivasi";
+"SWIPE_UP" = "Geser ke Atas icon";
+"SWIPE_DOWN" = "Geser ke Bawah icon";
+"DOUBLE_TAP" = "Tekan Dua Kali pada icon";
+"TRIPLE_TAP" = "Tekan Tiga Kali pada icon";
+"HOLD_ON_ICON" = "Pegang atas icon";
+
+"PLUGIN_PREFERENCES" = "Preferensi Plugin";
+"PLUGIN_PREFERENCES_FOOTER" = "Preferensi untuk plugin Velox";
+"CHOOSE_VIEW" = "Tampilan Velox untuk Aplikasi";
+"CHOOSE_VIEW_FOOTER" = "Pilih tampilan Velox yang kamu suka untuk setiap aplikasi";
+"MORE" = "Lebihan";
+
+"NOTIFICATION_VIEW" = "Tampilan Notifikasi"; //this is the view that shows your list of notifications instead of the custom Velox view, in case that helps you translate it better :)
+
+"CREDITS" = "Kredits";
+
+"PHILLIP_TITLE" = "Developer Utama";
+"PHILLIP_SUBTITLE" = "Suara seperti Morgan Freeman";
+
+"STEVE_TITLE" = "Designer Utama";
+"STEVE SUBTITLE" = "Steve adalah designer untuk Velox I dan II";
+
+"UROBORO_TITLE" = "Developer Kedua";
+"UROBORO_SUBTITLE" = "Akan semestinya sebuah robot";
+
+"CORTEX_TITLE" = "Kumpulan Utama";
+"CORTEX_SUBTITLE" = "Kumpulan yang menghasilkan Velox";
+
+"MILO_TITLE" = "Penolong Developer";
+"MILO_SUBTITLE" = "Menolong design dan membuat bundel preferensi";
+
+"ETHAN_TITLE" = "Penolong Developer";
+"ETHAN_SUBTITLE" = "Menolong dengan Velox";
+
+"CYRIL_TITLE" = "Designer Cortex dan Penolong Designer Velox";
+"CYRIL_SUBTITLE" = "Menolong dengan design Velox";
+
+"CHECK_IT_OUT" = "Tengoklah!";
+"STRATOS_FOOTER" = "Stratos adalah Cortex's tweak yang terbaru! Tengoklah di Cydia!";
+
+/*
+ Please leave the "%@" and "\n" keys alone; those are part of the code.
+ For example, you would translate "%@\nThis\nWord" into "%@\nEsta\nPalabra"
+ */
+"ERROR_VIEW" = "%@\nThe developer of this extension has configured it incorrectly.\n Please ensure the class specified in the extension's Info.plist (for key veloxClass) has been loaded into SpringBoard.";

@@ -1,0 +1,57 @@
+/*
+ LANGUAGE: Dutch
+ Please enter the following information so we can accredit and reward you:
+  * Name to show up in preference bundle: Erwin89
+  * Social media account to show up in preference bundle: twitter: @ErwinFryslan
+  * Cydia ID so we can gift you the tweak: #466282272
+ How we can contact you if needed: erwinsipma22@gmail.com
+*/
+
+
+"BY_PHILLIP_TENNEN" = "Door Phillip Tennen";
+"ENABLED" = "Aan";
+"DARK_MODE" = "Donkere Modus";
+"USE_FASTER_ANIMATIONS" = "Gebruik snellere animaties";
+
+"ACTIVATION_METHOD" = "Activeer Methode";
+"SWIPE_UP" = "Veeg Icoon Omhoog";
+"SWIPE_DOWN" = "Veeg Icoon Omlaag";
+"DOUBLE_TAP" = "Druk twee keer op icoon";
+"TRIPLE_TAP" = "Druk drie keer op icoon";
+"HOLD_ON_ICON" = "Houd icoon vast";
+
+"PLUGIN_PREFERENCES" = "Plugin Voorkeuren";
+"PLUGIN_PREFERENCES_FOOTER" = "Voorkeuren voor je Velox plugins";
+"CHOOSE_VIEW" = "Velox Uiterlijk voor App";
+"CHOOSE_VIEW_FOOTER" = "Kies welke Velox Uiterlijk je wilt voor elke app";
+"MORE" = "Meer";
+
+"NOTIFICATION_VIEW" = "Notificatie Gedeelte"; 
+
+"CREDITS" = "Credits";
+
+"PHILLIP_TITLE" = "Hoofd Ontwikkelaar";
+"PHILLIP_SUBTITLE" = "Klinkt als Morgan Freeman";
+
+"STEVE_TITLE" = "Hoofd Ontwerper";
+"STEVE SUBTITLE" = "Steve is de Ontwerper van Velox 1 & 2";
+
+"UROBORO_TITLE" = "Mede Ontwerper";
+"UROBORO_SUBTITLE" = "Is zeker weten een robot";
+
+"CORTEX_TITLE" = "Het Team";
+"CORTEX_SUBTITLE" = "Het team achter Velox";
+
+"MILO_TITLE" = "Assistent Ontwikkelaar";
+"MILO_SUBTITLE" = "Heeft de preference bundle ontwikkeld en gecreëerd";
+
+"ETHAN_TITLE" = "Assistent Ontwikkelaar";
+"ETHAN_SUBTITLE" = "Heeft geholpen met Velox";
+
+"CYRIL_TITLE" = "Cortex Ontwerper en Mede Ontwerper van Velox";
+"CYRIL_SUBTITLE" = "Heeft geholpen met het Ontwerpen van Velox";
+
+"CHECK_IT_OUT" = "Check it out!";
+"STRATOS_FOOTER" = "Stratos is de andere nieuwe tweak van Cortex. Kijk snel in Cydia!";
+
+"ERROR_VIEW" = "%@\nDe Ontwikkelaar van deze extensie heeft het verkeerd geconfigureerd.\n Denk erom dat de class specified in de Info.plist van de extensie succesvol is geladen in SpringBoard. (Voor sleutel veloxClass)";

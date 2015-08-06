@@ -1,0 +1,77 @@
+/*
+ Thanks for helping translate Velox II! Translate the items that are not in all caps, for example, you would change:
+ "HELLO_PHRASE" = "Hello";
+ to:
+ "HELLO_PHRASE" = "Hola";
+ You also don't need to translate the stuff after two slashes (//).
+ Try to follow the same scheme as me for capitalization.
+ Happy translating! Thanks again,
+ The Cortex Dev Team :)
+ If you have any questions, or a setting needs more clarification/context for you to translate it well, feel free to shoot me an email at milodarling98@gmail.com and I'll get back to you as soon as I can
+ Please fill out the information in the next comment block as well.
+ */
+
+/*
+ LANGUAGE:
+ Please enter the following information so we can accredit and reward you:
+  * Name to show up in preference bundle:
+  * Social media account to show up in preference bundle:
+  * Cydia ID so we can gift you the tweak:
+ How we can contact you if needed:
+  Name - Abraham Levine (arcticsn0w)
+  Social Media - Twitter - @arcticsn0w
+  Cydia ID: 465051948
+*/
+
+
+"BY_PHILLIP_TENNEN" = "Phillip Tennen מאת";
+"ENABLED" = "אִפְשֵׁר";
+"DARK_MODE" = "מצב כהה";
+"USE_FASTER_ANIMATIONS" = "אנימציות מהר";
+
+"ACTIVATION_METHOD" = "שיטת ההפעלה";
+"SWIPE_UP" = "לסחוב למעלה על איקון";
+"SWIPE_DOWN" = "נשמטים למטה על איקון";
+"DOUBLE_TAP" = "הקשה כפולה על איקון";
+"TRIPLE_TAP" = "טריפל הקשה על איקון";
+"HOLD_ON_ICON" = "הקישו על איקון";
+
+"PLUGIN_PREFERENCES" = "הגדרות מודול";
+"PLUGIN_PREFERENCES_FOOTER" = "שלך Velox הגדרות עבור מודולים";
+"CHOOSE_VIEW" = "תצוגה עבור יישום Velox";
+"CHOOSE_VIEW_FOOTER" = "ברצונך להשתמש עבור כל יישום Velox לבחור איזו תצוגה";
+"MORE" = "עוֹד";
+
+"NOTIFICATION_VIEW" = "תצוגת ההודעות"; //this is the view that shows your list of notifications instead of the custom Velox view, in case that helps you translate it better :)
+
+"CREDITS" = "קרדיטים";
+
+"PHILLIP_TITLE" = "מפתח ראשי";
+"PHILLIP_SUBTITLE" = "Morgan Freeman נשמע כמו";
+
+"STEVE_TITLE" = "המעצב הראשי";
+"STEVE SUBTITLE" = "Velox 1/2 המעצב של";
+
+"UROBORO_TITLE" = "מפתח השני";
+"UROBORO_SUBTITLE" = "שעשויות להיות רובוט";
+
+"CORTEX_TITLE" = "הצוות";
+"CORTEX_SUBTITLE" = "Velox הצוות מאחורי";
+
+"MILO_TITLE" = "סיוע מפתח";
+"MILO_SUBTITLE" = "מתוכנן ועשה את ההגדרות";
+
+"ETHAN_TITLE" = "סיוע מפתח";
+"ETHAN_SUBTITLE" = "Velox עזרה עם";
+
+"CYRIL_TITLE" = "Velox המעצב השני של";
+"CYRIL_SUBTITLE" = "Velox עזרה עם העיצוב של";
+
+"CHECK_IT_OUT" = "!תראה את זה";
+"STRATOS_FOOTER" = "!Cydiaלחפש אותו ב.Cortex היא ששינוי כזה החדש אחרים מן Stratos";
+
+/*
+ Please leave the "%@" and "\n" keys alone; those are part of the code.
+ For example, you would translate "%@\nThis\nWord" into "%@\nEsta\nPalabra"
+*/
+"ERROR_VIEW" = "%@\nהמפתח של הרחבה זו יש להגדיר אותו באופן שגוי\n .SpringBoard נטענת לתוך Info.plistב veloxClass נא ודא כי";

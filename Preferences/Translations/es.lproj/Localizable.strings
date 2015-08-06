@@ -1,0 +1,74 @@
+/*
+ Thanks for helping translate Velox II! Translate the items that are not in all caps, for example, you would change:
+ "HELLO_PHRASE" = "Hello";
+ to:
+ "HELLO_PHRASE" = "Hola";
+ You also don't need to translate the stuff after two slashes (//).
+ Try to follow the same scheme as me for capitalization.
+ Happy translating! Thanks again,
+ The Cortex Dev Team :)
+ If you have any questions, or a setting needs more clarification/context for you to translate it well, feel free to shoot me an email at milodarling98@gmail.com and I'll get back to you as soon as I can
+ Please fill out the information in the next comment block as well.
+ */
+
+/*
+ LANGUAGE:
+ Please enter the following information so we can accredit and reward you:
+  * Name to show up in preference bundle: Betojf
+  * Social media account to show up in preference bundle:@betojf
+  * Cydia ID so we can gift you the tweak:10859
+ How we can contact you if needed:betojf@gmail.com
+*/
+
+
+"BY_PHILLIP_TENNEN" = "Por Phillip Tennen";
+"ENABLED" = "Abilitado";
+"DARK_MODE" = "Modo Oscuro";
+"USE_FASTER_ANIMATIONS" = "Usar Animaciones Rápidas";
+
+"ACTIVATION_METHOD" = "Método de Activación";
+"SWIPE_UP" = "Deslizar Arriba en ícono";
+"SWIPE_DOWN" = "Deslizar Abajo en ícono";
+"DOUBLE_TAP" = "Doble Toque en ícono";
+"TRIPLE_TAP" = "Triple Toque en ícono";
+"HOLD_ON_ICON" = "Mantener presionado el ícono";
+
+"PLUGIN_PREFERENCES" = "Preferencias";
+"PLUGIN_PREFERENCES_FOOTER" = "Preferencias para sus plugins de Velox";
+"CHOOSE_VIEW" = "Manera de Verse para la App";
+"CHOOSE_VIEW_FOOTER" = "Elija la manera que Velox se vea en cada aplicación";
+"MORE" = "Más";
+
+"NOTIFICATION_VIEW" = "Ventana de Notificaciones de planilla"; //this is the view that shows your list of notifications instead of the custom Velox view, in case that helps you translate it better :)
+
+"CREDITS" = "Credits";
+
+"PHILLIP_TITLE" = "Jefe desarrollador";
+"PHILLIP_SUBTITLE" = "Suena como Morgan Freeman";
+
+"STEVE_TITLE" = "Jefe Diseñador";
+"STEVE SUBTITLE" = "Steve es el diseñador de Velox 1 & 2";
+
+"UROBORO_TITLE" = "Co-desarrollador";
+"UROBORO_SUBTITLE" = "Es definitivamente un robot";
+
+"CORTEX_TITLE" = "El Equipo";
+"CORTEX_SUBTITLE" = "El equipo detrás de Velox";
+
+"MILO_TITLE" = "Desarrollador Ayudante";
+"MILO_SUBTITLE" = "Diseñó y construyó el paquete de preferencia";
+
+"ETHAN_TITLE" = "Desarrollador Ayudante";
+"ETHAN_SUBTITLE" = "Ayudó con Velox";
+
+"CYRIL_TITLE" = "Diseñador de Cortex y co-diseñador de Velox";
+"CYRIL_SUBTITLE" = "Ayudó con el diseño de Velox";
+
+"CHECK_IT_OUT" = "Échale un vistazo!";
+"STRATOS_FOOTER" = "Stratos es otro modificador más nuevo de Cortex. ¡Compruébalo tú mismo en Cydia!";
+
+/*
+ Please leave the "%@" and "\n" keys alone; those are part of the code.
+ For example, you would translate "%@\nThis\nWord" into "%@\nEsta\nPalabra"
+*/
+"ERROR_VIEW" = "%@\nEl programador de esta extensión ha configurado de forma incorrecta.\n Asegúrese de que la clase especificada este en la extensión de Info.plist (para veloxClass clave) se ha cargado en SpringBoard.";

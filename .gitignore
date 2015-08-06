@@ -1,0 +1,8 @@
+*.deb
+theos
+.theos
+_
+obj
+Packages
+.DS_Store
+cloc.pl

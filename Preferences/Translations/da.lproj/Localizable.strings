@@ -1,0 +1,74 @@
+/*
+ Thanks for helping translate Velox II! Translate the items that are not in all caps, for example, you would change:
+ "HELLO_PHRASE" = "Hello";
+ to:
+ "HELLO_PHRASE" = "Hej";
+ You also don't need to translate the stuff after two slashes (//).
+ Try to follow the same scheme as me for capitalization.
+ Happy translating! Thanks again,
+ The Cortex Dev Team :)
+ If you have any questions, or a setting needs more clarification/context for you to translate it well, feel free to shoot me an email at milodarling98@gmail.com and I'll get back to you as soon as I can
+ Please fill out the information in the next comment block as well.
+ */
+
+/*
+ LANGUAGE: Dansk / Danish
+ Please enter the following information so we can accredit and reward you:
+  * Name to show up in preference bundle: Nicholas Bukdahl
+  * Social media account to show up in preference bundle: @r0w4nlol
+  * Cydia ID so we can gift you the tweak: 3897162
+ How we can contact you if needed: king-devlin@hotmail.com
+*/
+
+
+"BY_PHILLIP_TENNEN" = "Af Phillip Tennen";
+"ENABLED" = "Aktiveret";
+"DARK_MODE" = "Mørke Tilstand";
+"USE_FASTER_ANIMATIONS" = "Brug Hurtigere Animationer";
+
+"ACTIVATION_METHOD" = "Aktiverings Metode";
+"SWIPE_UP" = "Stryg Op på ikonet";
+"SWIPE_DOWN" = "Stryg Ned på ikonet";
+"DOUBLE_TAP" = "Dobbelt Tryk på ikon";
+"TRIPLE_TAP" = "Tredobbelt Tryk på ikon";
+"HOLD_ON_ICON" = "Hold på ikon";
+
+"PLUGIN_PREFERENCES" = "Udvidelse Præferencer";
+"PLUGIN_PREFERENCES_FOOTER" = "Præferencer til dine Velox udvidelser";
+"CHOOSE_VIEW" = "Velox Visning til App";
+"CHOOSE_VIEW_FOOTER" = "Vælg hvilken Velox visning du vil have for hver enkelt app";
+"MORE" = "Mere";
+
+"NOTIFICATION_VIEW" = "Meddelelse Visning"; //this is the view that shows your list of notifications instead of the custom Velox view, in case that helps you translate it better :)
+
+"CREDITS" = "Anerkendelse";
+
+"PHILLIP_TITLE" = "Hovedudvikler";
+"PHILLIP_SUBTITLE" = "Lyder ligesom Morgan Freeman";
+
+"STEVE_TITLE" = "Hoveddesigner";
+"STEVE SUBTITLE" = "Steve er designeren af Velox 1 & 2";
+
+"UROBORO_TITLE" = "Medudvikler";
+"UROBORO_SUBTITLE" = "Er helt sikkert en robot";
+
+"CORTEX_TITLE" = "Holdet";
+"CORTEX_SUBTITLE" = "Holdet bag Velox";
+
+"MILO_TITLE" = "Assisterende udvikler";
+"MILO_SUBTITLE" = "Designet og udviklet Indsillings bundle";
+
+"ETHAN_TITLE" = "Assisterende udvikler";
+"ETHAN_SUBTITLE" = "Hjulpet med Velox";
+
+"CYRIL_TITLE" = "Cortex Designer og Assisterende-designer af Velox";
+"CYRIL_SUBTITLE" = "Hjulpet med designet af Velox";
+
+"CHECK_IT_OUT" = "Tjek det ud!";
+"STRATOS_FOOTER" = "Stratos er Cortex's anden nyeste udvidelse. Tjek den ud i Cydia!";
+
+/*
+ Please leave the "%@" and "\n" keys alone; those are part of the code.
+ For example, you would translate "%@\nThis\nWord" into "%@\nEsta\nPalabra"
+*/
+"ERROR_VIEW" = "%@\nUdvikleren af denne udvidelse har konfigureret den forkert.\n Sørg for at klassen specificeret i udvidelsen Info.plist (for nøglen veloxClass) er blevet indlæst i SpringBoard.";

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>The Creators</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSG</string>
+			<key>cellClass</key>
+			<string>VeloxDevCell</string>
+			<key>height</key>
+			<string>100</string>
+			<key>devName</key>
+			<string>Phillip Tennen</string>
+			<key>jobTitle</key>
+			<string>Head Developer</string>
+			<key>subtitle</key>
+			<string>Gotta go fast.</string>
+			<key>imageName</key>
+			<string>phillip</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Twitter</string>
+			<key>action</key>
+			<string>openTwitter:</string>
+			<key>handle</key>
+			<string>@phillipten</string>
+			<key>cellClass</key>
+			<string>VeloxSocialCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Reddit</string>
+			<key>action</key>
+			<string>openReddit:</string>
+			<key>handle</key>
+			<string>/u/codyd51</string>
+			<key>cellClass</key>
+			<string>VeloxSocialCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSG</string>
+			<key>cellClass</key>
+			<string>VeloxDevCell</string>
+			<key>height</key>
+			<string>100</string>
+			<key>devName</key>
+			<string>Uroboro</string>
+			<key>jobTitle</key>
+			<string>Co-developer</string>
+			<key>subtitle</key>
+			<string>Most definitely is a robot</string>
+			<key>imageName</key>
+			<string>uroboro</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Twitter</string>
+			<key>action</key>
+			<string>openTwitter:</string>
+			<key>handle</key>
+			<string>@uroboro845</string>
+			<key>cellClass</key>
+			<string>VeloxSocialCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Reddit</string>
+			<key>action</key>
+			<string>openReddit:</string>
+			<key>handle</key>
+			<string>/u/uroboro</string>
+			<key>cellClass</key>
+			<string>VeloxSocialCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>The Development Team</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSG</string>
+			<key>cellClass</key>
+			<string>VeloxDevCell</string>
+			<key>height</key>
+			<string>100</string>
+			<key>devName</key>
+			<string>Cortex Dev Team</string>
+			<key>jobTitle</key>
+			<string>The Team</string>
+			<key>subtitle</key>
+			<string>We make stuff.</string>
+			<key>imageName</key>
+			<string>cortex</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Twitter</string>
+			<key>action</key>
+			<string>openTwitter:</string>
+			<key>handle</key>
+			<string>@CortexDevTeam</string>
+			<key>cellClass</key>
+			<string>VeloxSocialCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Reddit</string>
+			<key>action</key>
+			<string>openReddit:</string>
+			<key>handle</key>
+			<string>/u/CortexDevTeam</string>
+			<key>cellClass</key>
+			<string>VeloxSocialCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>© 2014-2015 Cortex Dev Team. Mix tape coming March</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Credits</string>
+</dict>
+</plist>

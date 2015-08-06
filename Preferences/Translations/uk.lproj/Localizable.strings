@@ -1,0 +1,74 @@
+/*
+ Thanks for helping translate Velox II! Translate the items that are not in all caps, for example, you would change:
+ "HELLO_PHRASE" = "Hello";
+ to:
+ "HELLO_PHRASE" = "Hola";
+ You also don't need to translate the stuff after two slashes (//).
+ Try to follow the same scheme as me for capitalization.
+ Happy translating! Thanks again,
+ The Cortex Dev Team :)
+ If you have any questions, or a setting needs more clarification/context for you to translate it well, feel free to shoot me an email at milodarling98@gmail.com and I'll get back to you as soon as I can
+ Please fill out the information in the next comment block as well.
+ */
+
+/*
+ LANGUAGE:
+ Please enter the following information so we can accredit and reward you:
+  * Name to show up in preference bundle: deadmaruss
+  * Social media account to show up in preference bundle: deadmaruss@twitter/reddit
+  * Cydia ID so we can gift you the tweak: 5562791
+ How we can contact you if needed: deadmaruss@yahoo.co.jp or via twitter/reddit
+*/
+
+
+"BY_PHILLIP_TENNEN" = "Розроблено Філліпом Тенненом";
+"ENABLED" = "Ввімкнено";
+"DARK_MODE" = "Темний режим";
+"USE_FASTER_ANIMATIONS" = "Використовувати швидшу анімацію";
+
+"ACTIVATION_METHOD" = "Метод активації";
+"SWIPE_UP" = "Провести вверх по піктограмі";
+"SWIPE_DOWN" = "Провести вниз по піктограмі";
+"DOUBLE_TAP" = "Двічі торкнутися піктограми";
+"TRIPLE_TAP" = "Тричі торкнутися піктограми";
+"HOLD_ON_ICON" = "Затиснути на піктограмі";
+
+"PLUGIN_PREFERENCES" = "Параметри додатку";
+"PLUGIN_PREFERENCES_FOOTER" = "Параметри ваших додатків Velox";
+"CHOOSE_VIEW" = "Вигляд Velox для програми";
+"CHOOSE_VIEW_FOOTER" = "Оберіть вигляд Velox для кожної програми";
+"MORE" = "Ще";
+
+"NOTIFICATION_VIEW" = "Вигляд повідомлення"; //this is the view that shows your list of notifications instead of the custom Velox view, in case that helps you translate it better :)
+
+"CREDITS" = "Розробники";
+
+"PHILLIP_TITLE" = "Головний розробник";
+"PHILLIP_SUBTITLE" = "Голос, як у Моргана Фрімена";
+
+"STEVE_TITLE" = "Головний дизайнер";
+"STEVE SUBTITLE" = "Стів є дизайнером Velox 1 і 2";
+
+"UROBORO_TITLE" = "Другий розробник";
+"UROBORO_SUBTITLE" = "Вірогідно, він робот";
+
+"CORTEX_TITLE" = "Команда";
+"CORTEX_SUBTITLE" = "Команда, що займалася Velox";
+
+"MILO_TITLE" = "Розробник-ассистент";
+"MILO_SUBTITLE" = "Розробив модуль налаштувань";
+
+"ETHAN_TITLE" = "Розробник-ассистент";
+"ETHAN_SUBTITLE" = "Допоміг з Velox";
+
+"CYRIL_TITLE" = "Дизайнер Cortex та со-дизайнер Velox";
+"CYRIL_SUBTITLE" = "Допоміг з дизайном Velox";
+
+"CHECK_IT_OUT" = "Заціни!";
+"STRATOS_FOOTER" = "Stratos - найновіший твік Cortex. Заціни його в Cydia!";
+
+/*
+ Please leave the "%@" and "\n" keys alone; those are part of the code.
+ For example, you would translate "%@\nThis\nWord" into "%@\nEsta\nPalabra"
+*/
+"ERROR_VIEW" = "%@\nРозробник цього розширення його неправильно налаштував.\n Переконайтесь, що клас, зазначений у файлі Info.plist додатку (для ключа veloxClass) завантажився в SpringBoard.";

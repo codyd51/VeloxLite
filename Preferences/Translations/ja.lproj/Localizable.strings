@@ -1,0 +1,74 @@
+/*
+ Thanks for helping translate Velox II! Translate the items that are not in all caps, for example, you would change:
+ "HELLO_PHRASE" = "Hello";
+ to:
+ "HELLO_PHRASE" = "Hola";
+ You also don't need to translate the stuff after two slashes (//).
+ Try to follow the same scheme as me for capitalization.
+ Happy translating! Thanks again,
+ The Cortex Dev Team :)
+ If you have any questions, or a setting needs more clarification/context for you to translate it well, feel free to shoot me an email at milodarling98@gmail.com and I'll get back to you as soon as I can
+ Please fill out the information in the next comment block as well.
+ */
+
+/*
+ LANGUAGE:
+ Please enter the following information so we can accredit and reward you:
+  * Name to show up in preference bundle: koh_kun
+  * Social media account to show up in preference bundle: koh_kun (Reddit)
+  * Cydia ID so we can gift you the tweak:464396015
+ How we can contact you if needed: info@madeinkohei.com
+*/
+
+
+"BY_PHILLIP_TENNEN" = "作者：Phillip Tennen";
+"ENABLED" = "有効”;
+"DARK_MODE" = "ダークモード”;
+"USE_FASTER_ANIMATIONS" = "アニメーションを加速させる”;
+
+"ACTIVATION_METHOD" = "発動方法”;
+"SWIPE_UP" = "アイコンを上にスワイプ”;
+"SWIPE_DOWN" = "アイコンを下にスワイプ”;
+"DOUBLE_TAP" = "アイコンをダブルタップ”;
+"TRIPLE_TAP" = "アイコンをトリプルタップ”;
+"HOLD_ON_ICON" = "アイコンを押し続ける”;
+
+"PLUGIN_PREFERENCES" = "プラグイン設定”;
+"PLUGIN_PREFERENCES_FOOTER" = "Velox用プラグインの設定";
+"CHOOSE_VIEW" = "アプリのVeloxビュー”;
+"CHOOSE_VIEW_FOOTER" = "各アプリをどのVeloxビューで閲覧するか選んでください";
+"MORE" = "もっと”;
+
+"NOTIFICATION_VIEW" = "通知ビュー”; //this is the view that shows your list of notifications instead of the custom Velox view, in case that helps you translate it better :)
+
+"CREDITS" = "制作・協力者リスト”;
+
+"PHILLIP_TITLE" = "チーフデベロッパ”;
+"PHILLIP_SUBTITLE" = "声がMorgan Freeman";
+
+"STEVE_TITLE" = "チーフデザイナー”;
+"STEVE SUBTITLE" = "SteveはVelox 1 & 2の”チーフデザイナー;
+
+"UROBORO_TITLE" = "副デベロッパ”;
+"UROBORO_SUBTITLE" = "この人は間違いなくロボット”;
+
+"CORTEX_TITLE" = "チーム”;
+"CORTEX_SUBTITLE" = "Veloxの裏方”;
+
+"MILO_TITLE" = "アシスタントデベロッパ”;
+"MILO_SUBTITLE" = "Prefence Bundleデザイン及び作成”;
+
+"ETHAN_TITLE" = "アシスタントデベロッパ”;
+"ETHAN_SUBTITLE" = "Velox作成に協力”;
+
+"CYRIL_TITLE" = "Cortexデザイナー・Velox副デベロッパ";
+"CYRIL_SUBTITLE" = "Veloxデザインに協力”;
+
+"CHECK_IT_OUT" = "こちらもチェック！”;
+"STRATOS_FOOTER" = "Cortexのもう一つの最新Tweak、Stratos。Cydiaで検索！";
+
+/*
+ Please leave the "%@" and "\n" keys alone; those are part of the code.
+ For example, you would translate "%@\nThis\nWord" into "%@\nEsta\nPalabra"
+*/
+"ERROR_VIEW" = "%@\n当Extensionのデベロッパによる構成ミスです。\n Info.plist内に記されているクラスが正しくSpringboardに読み込まれていることをを確認して下さい。";

@@ -1,0 +1,11 @@
+Package: com.phillipt.veloxlite
+Name: Velox Lite
+Depends: mobilesubstrate, system-cmds, applist
+Conflicts: com.phillipt.veloxlite
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An incredible new way to use your apps
+Maintainer: Phillip Tennen
+Author: Phillip Tennen
+Icon: Icon.png
+Section: Tweaks
